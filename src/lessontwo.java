@@ -25,4 +25,5 @@ public class lessontwo {
     // Access variables/method of Objects
     String s = "Hello World";
         s.length();
+
 }
